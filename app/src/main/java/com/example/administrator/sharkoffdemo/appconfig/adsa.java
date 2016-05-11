@@ -5,6 +5,4 @@ package com.example.administrator.sharkoffdemo.appconfig;
  */
 public class adsa {
 
-
-
 }
